@@ -27,7 +27,6 @@ jobs:
     - name: Check for Changes
       id: git-check
       run: |
-        # 核心修复：强制让 Git 扫描新创建的未跟踪文件
         if [ -n "$(git status --porcelain)" ]; then
           echo "changes=true" >> $GITHUB_OUTPUT
         else
@@ -43,22 +42,23 @@ jobs:
         git commit -m "Auto-updated IP lists: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
         git push
 
-    - name: Generate Release Tag
+    # 核心修复：在这里提前生成好时间字符串，并塞入 ENV 变量中
+    - name: Set Environment Variables
       if: steps.git-check.outputs.changes == 'true'
-      id: tag
+      id: vars
       run: |
-        TAG_NAME="IP-Build-$(date +'%Y.%m.%d-%H%M')"
-        echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
+        echo "TAG_NAME=IP-Build-$(date +'%Y.%m.%d-%H%M')" >> $GITHUB_OUTPUT
+        echo "RELEASE_TIME=$(date -u +'%Y-%m-%d %H:%M:%S') UTC" >> $GITHUB_OUTPUT
 
     - name: Create GitHub Release
       if: steps.git-check.outputs.changes == 'true'
       uses: softprops/action-gh-release@v2
       with:
-        tag_name: ${{ steps.tag.outputs.tag_name }}
-        name: "IP Lists Update ${{ steps.tag.outputs.tag_name }}"
+        tag_name: ${{ steps.vars.outputs.TAG_NAME }}
+        name: "IP Lists Update ${{ steps.vars.outputs.TAG_NAME }}"
         body: |
           ### 自动更新日志
-          - 数据源更新于: $(date -u +'%Y-%m-%d %H:%M:%S') UTC
+          - 数据源更新于: ${{ steps.vars.outputs.RELEASE_TIME }}
           - 包含最新的中国大陆及各运营商 IPv4/IPv6 地址列表。
           - 包含专为 RouterOS v7 设计的 `.rsc` 防火墙脚本。
         draft: false
