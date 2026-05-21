@@ -1,0 +1,66 @@
+name: Auto Update IP Lists
+
+on:
+  schedule:
+    # 国际标准时间 UTC 16:00 等于 北京时间次日 02:00
+    - cron: '0 16 * * *'
+  workflow_dispatch: # 支持手动点击运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 显式赋予写入权限
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run Update Script
+      run: python py/update_ip.py
+
+    - name: Check for Changes
+      id: git-check
+      run: |
+        git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+    - name: Commit and Push Changes
+      if: steps.git-check.outputs.changes == 'true' # 已修复：冒号改为点号
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add IPv4/ IPv6/
+        git commit -m "Auto-updated IP lists: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+        git push
+
+    - name: Generate Release Tag
+      if: steps.git-check.outputs.changes == 'true' # 已修复：冒号改为点号
+      id: tag
+      run: |
+        TAG_NAME="IP-Build-$(date +'%Y.%m.%d-%H%M')"
+        echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
+
+    - name: Create GitHub Release
+      if: steps.git-check.outputs.changes == 'true' # 已修复：冒号改为点号
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ steps.tag.outputs.tag_name }}
+        name: "IP Lists Update ${{ steps.tag.outputs.tag_name }}"
+        body: |
+          ### 自动更新日志
+          - 数据源更新于: $(date -u +'%Y-%m-%d %H:%M:%S') UTC
+          - 包含最新的中国大陆及各运营商 IPv4/IPv6 地址列表。
+          - 包含专为 RouterOS v7 设计的 `.rsc` 防火墙脚本。
+        draft: false
+        prerelease: false
+        fail_on_unmatched_files: false # 新增：防止因网络波动漏掉某个IP源时导致整个Release步骤报错
+        files: |
+          IPv4/txt/*.txt
+          IPv4/rsc/*.rsc
+          IPv6/txt/*.txt
+          IPv6/rsc/*.rsc
