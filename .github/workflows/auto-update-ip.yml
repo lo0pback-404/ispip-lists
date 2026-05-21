@@ -42,7 +42,6 @@ jobs:
         git commit -m "Auto-updated IP lists: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
         git push
 
-    # 核心修复：在这里提前生成好时间字符串，并塞入 ENV 变量中
     - name: Set Environment Variables
       if: steps.git-check.outputs.changes == 'true'
       id: vars
@@ -57,10 +56,30 @@ jobs:
         tag_name: ${{ steps.vars.outputs.TAG_NAME }}
         name: "IP Lists Update ${{ steps.vars.outputs.TAG_NAME }}"
         body: |
-          ### 自动更新日志
-          - 数据源更新于: ${{ steps.vars.outputs.RELEASE_TIME }}
-          - 包含最新的中国大陆及各运营商 IPv4/IPv6 地址列表。
-          - 包含专为 RouterOS v7 设计的 `.rsc` 防火墙脚本。
+          ### 📢 数据源声明
+          本仓库数据每日全量同步自公共数据源：[ispip.clang.cn](https://ispip.clang.cn/)
+          
+          ### 📅 自动更新日志
+          - 更新时间: ${{ steps.vars.outputs.RELEASE_TIME }}
+          
+          ### 📋 下载前识别指南（文件与运营商对照表）
+          为了方便您在下载前快速识别，请参考以下对应关系：
+          
+          | 运营商/区域描述 | IPv4 文件名 (`.txt` / `.rsc`) | IPv6 文件名 (`.txt` / `.rsc`) | 内部 List 名称 |
+          | :--- | :--- | :--- | :--- |
+          | 🇨🇳 **中国大陆全网** | `List_ALL_China` | `List_ALL_China_ipv6` | `List_ALL_China` |
+          | ⚡ **中国电信** | `List_ALL_ChinaTelecom` | `List_ALL_ChinaTelecom_ipv6` | `List_ALL_ChinaTelecom` |
+          | 🌀 **中国联通** | `List_ALL_ChinaUnicom` | `List_ALL_ChinaUnicom_ipv6` | `List_ALL_ChinaUnicom` |
+          | Ⓜ️ **中国移动** | `List_ALL_ChinaMobile` | `List_ALL_ChinaMobile_ipv6` | `List_ALL_ChinaMobile` |
+          | 📡 **中国广电** | `List_ALL_ChinaBtn` | `List_ALL_ChinaBtn_ipv6` | `List_ALL_ChinaBtn` |
+          | 🎓 **中国教育网** | `List_ALL_ChinaCernet` | `List_ALL_ChinaCernet_ipv6` | `List_ALL_ChinaCernet` |
+          | 🌐 **鹏博士/长宽** | `List_ALL_ChinaGwbn` | `List_ALL_ChinaGwbn_ipv6` | `List_ALL_ChinaGwbn` |
+          | ➕ **其他ISP** | `List_Other_China` | `List_Other_China_ipv6` | `List_Other_China` |
+          | 🇭🇰 **中国香港** | `List_ALL_HK` | `List_ALL_HK_ipv6` | `List_ALL_HK` |
+          | 🇲🇴 **中国澳门** | `List_ALL_MO` | `List_ALL_MO_ipv6` | `List_ALL_MO` |
+          | 🇹🇼 **中国台湾** | `List_ALL_TW` | `List_ALL_TW_ipv6` | `List_ALL_TW` |
+          
+          *注：IPv6 文件名带 `_ipv6` 仅用于下载时方便您肉眼区分，导入 RouterOS 后内部生成的 Address List 名称与 IPv4 完全一致，方便防火墙规则统一调用。*
         draft: false
         prerelease: false
         fail_on_unmatched_files: false
