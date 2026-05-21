@@ -38,7 +38,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add IPv4/ IPv6/
+        git add -A
         git commit -m "Auto-updated IP lists: $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
         git push
 
@@ -67,17 +67,17 @@ jobs:
           
           | 运营商/区域描述 | IPv4 文件名 (`.txt` / `.rsc`) | IPv6 文件名 (`.txt` / `.rsc`) | 内部 List 名称 |
           | :--- | :--- | :--- | :--- |
-          | 🇨🇳 **中国大陆全网** | `List_ALL_China` | `List_ALL_China_ipv6` | `List_ALL_China` |
-          | ⚡ **中国电信** | `List_ALL_ChinaTelecom` | `List_ALL_ChinaTelecom_ipv6` | `List_ALL_ChinaTelecom` |
-          | 🌀 **中国联通** | `List_ALL_ChinaUnicom` | `List_ALL_ChinaUnicom_ipv6` | `List_ALL_ChinaUnicom` |
-          | Ⓜ️ **中国移动** | `List_ALL_ChinaMobile` | `List_ALL_ChinaMobile_ipv6` | `List_ALL_ChinaMobile` |
-          | 📡 **中国广电** | `List_ALL_ChinaBtn` | `List_ALL_ChinaBtn_ipv6` | `List_ALL_ChinaBtn` |
-          | 🎓 **中国教育网** | `List_ALL_ChinaCernet` | `List_ALL_ChinaCernet_ipv6` | `List_ALL_ChinaCernet` |
-          | 🌐 **鹏博士/长宽** | `List_ALL_ChinaGwbn` | `List_ALL_ChinaGwbn_ipv6` | `List_ALL_ChinaGwbn` |
-          | ➕ **其他ISP** | `List_Other_China` | `List_Other_China_ipv6` | `List_Other_China` |
-          | 🇭🇰 **中国香港** | `List_ALL_HK` | `List_ALL_HK_ipv6` | `List_ALL_HK` |
-          | 🇲🇴 **中国澳门** | `List_ALL_MO` | `List_ALL_MO_ipv6` | `List_ALL_MO` |
-          | 🇹🇼 **中国台湾** | `List_ALL_TW` | `List_ALL_TW_ipv6` | `List_ALL_TW` |
+          | 🇨🇳 **中国大陆全网** | `all_cn` | `all_cn_ipv6` | `all_cn` |
+          | ⚡ **中国电信** | `chinatelecom` | `chinatelecom_ipv6` | `chinatelecom` |
+          | 🌀 **中国联通** | `unicom_cnc` | `unicom_cnc_ipv6` | `unicom_cnc` |
+          | Ⓜ️ **中国移动** | `cmcc` | `cmcc_ipv6` | `cmcc` |
+          | 📡 **中国广电** | `chinabtn` | `chinabtn_ipv6` | `chinabtn` |
+          | 🎓 **中国教育网** | `cernet` | `cernet_ipv6` | `cernet` |
+          | 🌐 **鹏博士/长宽** | `gwbn` | `gwbn_ipv6` | `gwbn` |
+          | ➕ **其他ISP** | `othernet` | `othernet_ipv6` | `othernet` |
+          | 🇭🇰 **中国香港** | `hk` | `hk_ipv6` | `hk` |
+          | 🇲🇴 **中国澳门** | `mo` | `mo_ipv6` | `mo` |
+          | 🇹🇼 **中国台湾** | `tw` | `tw_ipv6` | `tw` |
           
           *注：IPv6 文件名带 `_ipv6` 仅用于下载时方便您肉眼区分，导入 RouterOS 后内部生成的 Address List 名称与 IPv4 完全一致，方便防火墙规则统一调用。*
         draft: false
