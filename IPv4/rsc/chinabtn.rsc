@@ -1,0 +1,24 @@
+/ip firewall address-list
+add address=45.253.60.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.1.20.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.1.168.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.89.184.0/21 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.89.192.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.89.224.0/21 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=103.222.184.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=111.31.196.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=111.31.239.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=117.124.237.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=117.126.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=163.61.202.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=182.51.114.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=182.51.116.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=182.51.118.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=182.51.122.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=182.51.124.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=202.143.100.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.89.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.146.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.148.160.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.156.128.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=221.129.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
