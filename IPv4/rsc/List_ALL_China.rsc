@@ -2914,6 +2914,7 @@ add address=160.202.152.0/22 comment="" disabled=no list=List_ALL_China
 add address=160.202.212.0/22 comment="" disabled=no list=List_ALL_China
 add address=160.202.224.0/19 comment="" disabled=no list=List_ALL_China
 add address=160.250.14.0/23 comment="" disabled=no list=List_ALL_China
+add address=160.250.24.0/23 comment="" disabled=no list=List_ALL_China
 add address=160.250.84.0/23 comment="" disabled=no list=List_ALL_China
 add address=160.250.102.0/23 comment="" disabled=no list=List_ALL_China
 add address=161.163.0.0/21 comment="" disabled=no list=List_ALL_China

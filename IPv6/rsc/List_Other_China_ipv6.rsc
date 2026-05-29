@@ -791,5 +791,4 @@ add address=2a14:7586:6107::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7586:6110::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7586:6300::/44 comment="" disabled=no list=List_Other_China
 add address=2a14:7dc0:506::/48 comment="" disabled=no list=List_Other_China
-add address=2a14:ae00:50::/44 comment="" disabled=no list=List_Other_China
 add address=2a14:c380:21::/48 comment="" disabled=no list=List_Other_China
