@@ -1381,6 +1381,7 @@ add address=2804:1e48:9001::/48 comment="" disabled=no list=List_ALL_China
 add address=2804:1e48:9002::/48 comment="" disabled=no list=List_ALL_China
 add address=2a01:e281:a400::/48 comment="" disabled=no list=List_ALL_China
 add address=2a01:e281:a410::/44 comment="" disabled=no list=List_ALL_China
+add address=2a01:f100:1f8::/48 comment="" disabled=no list=List_ALL_China
 add address=2a04:3e00:1002::/48 comment="" disabled=no list=List_ALL_China
 add address=2a04:f580:8010::/47 comment="" disabled=no list=List_ALL_China
 add address=2a04:f580:8090::/48 comment="" disabled=no list=List_ALL_China

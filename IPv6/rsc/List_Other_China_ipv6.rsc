@@ -609,6 +609,7 @@ add address=2602:fbda:620::/48 comment="" disabled=no list=List_Other_China
 add address=2602:fbda:660::/44 comment="" disabled=no list=List_Other_China
 add address=2a01:e281:a400::/48 comment="" disabled=no list=List_Other_China
 add address=2a01:e281:a410::/44 comment="" disabled=no list=List_Other_China
+add address=2a01:f100:1f8::/48 comment="" disabled=no list=List_Other_China
 add address=2a04:3e00:1002::/48 comment="" disabled=no list=List_Other_China
 add address=2a05:1085::/32 comment="" disabled=no list=List_Other_China
 add address=2a05:1087::/32 comment="" disabled=no list=List_Other_China
