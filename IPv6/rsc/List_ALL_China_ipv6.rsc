@@ -1464,7 +1464,6 @@ add address=2a0f:1cc5:645::/48 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:661::/48 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:662::/48 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:6a0::/48 comment="" disabled=no list=List_ALL_China
-add address=2a0f:1cc5:a00::/48 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:f00::/46 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:f04::/47 comment="" disabled=no list=List_ALL_China
 add address=2a0f:1cc5:f06::/48 comment="" disabled=no list=List_ALL_China
