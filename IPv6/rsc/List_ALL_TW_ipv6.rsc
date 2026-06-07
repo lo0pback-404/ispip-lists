@@ -143,7 +143,6 @@ add address=2404:63c0:38::/47 comment="" disabled=no list=List_ALL_TW
 add address=2404:63c0:40::/45 comment="" disabled=no list=List_ALL_TW
 add address=2404:63c0:48::/47 comment="" disabled=no list=List_ALL_TW
 add address=2404:63c0:50::/48 comment="" disabled=no list=List_ALL_TW
-add address=2404:63c0:208::/48 comment="" disabled=no list=List_ALL_TW
 add address=2404:a3c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2404:c140:956e::/48 comment="" disabled=no list=List_ALL_TW
 add address=2404:c740::/47 comment="" disabled=no list=List_ALL_TW
