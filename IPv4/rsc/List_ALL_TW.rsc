@@ -1052,8 +1052,7 @@ add address=211.76.152.0/24 comment="" disabled=no list=List_ALL_TW
 add address=211.76.155.0/24 comment="" disabled=no list=List_ALL_TW
 add address=211.76.156.0/22 comment="" disabled=no list=List_ALL_TW
 add address=211.76.160.0/20 comment="" disabled=no list=List_ALL_TW
-add address=211.76.176.0/23 comment="" disabled=no list=List_ALL_TW
-add address=211.76.178.0/24 comment="" disabled=no list=List_ALL_TW
+add address=211.76.176.0/22 comment="" disabled=no list=List_ALL_TW
 add address=211.76.180.0/23 comment="" disabled=no list=List_ALL_TW
 add address=211.76.186.0/23 comment="" disabled=no list=List_ALL_TW
 add address=211.76.188.0/22 comment="" disabled=no list=List_ALL_TW
