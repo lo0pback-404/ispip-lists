@@ -18,8 +18,7 @@ add address=115.182.128.0/19 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=115.182.160.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=115.182.192.0/22 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=115.182.200.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
-add address=115.182.208.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
-add address=115.182.220.0/22 comment="" disabled=no list=List_ALL_ChinaGwbn
+add address=115.182.208.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=115.182.224.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=118.64.0.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=118.64.248.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
