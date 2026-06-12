@@ -43,10 +43,11 @@ add address=122.49.16.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=122.49.32.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=123.196.112.0/20 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=124.14.1.0/24 comment="" disabled=no list=List_ALL_ChinaGwbn
-add address=124.14.2.0/23 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=124.14.5.0/24 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=124.14.7.0/24 comment="" disabled=no list=List_ALL_ChinaGwbn
-add address=124.14.8.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
+add address=124.14.8.0/24 comment="" disabled=no list=List_ALL_ChinaGwbn
+add address=124.14.10.0/24 comment="" disabled=no list=List_ALL_ChinaGwbn
+add address=124.14.12.0/22 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=124.14.16.0/21 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=124.202.128.0/19 comment="" disabled=no list=List_ALL_ChinaGwbn
 add address=210.74.0.0/22 comment="" disabled=no list=List_ALL_ChinaGwbn
