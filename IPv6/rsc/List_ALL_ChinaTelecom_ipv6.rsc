@@ -111,7 +111,7 @@ add address=240a:6001::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=240c:409f::/46 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=240c:409f:2000::/46 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=240c:409f:3000::/45 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=240c:409f:4000::/46 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=240c:409f:4000::/45 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=240e::/20 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2605:9d80:8001::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2605:9d80:8011::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
