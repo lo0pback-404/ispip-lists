@@ -203,7 +203,6 @@ add address=87.232.88.0/23 comment="" disabled=no list=List_ALL_TW
 add address=87.232.90.0/24 comment="" disabled=no list=List_ALL_TW
 add address=88.209.247.0/24 comment="" disabled=no list=List_ALL_TW
 add address=89.28.235.0/24 comment="" disabled=no list=List_ALL_TW
-add address=89.252.132.0/24 comment="" disabled=no list=List_ALL_TW
 add address=93.90.72.0/24 comment="" disabled=no list=List_ALL_TW
 add address=95.135.176.0/24 comment="" disabled=no list=List_ALL_TW
 add address=96.62.221.0/24 comment="" disabled=no list=List_ALL_TW
