@@ -1,5 +1,6 @@
 /ip firewall address-list
-add address=5.206.224.0/21 comment="" disabled=no list=List_ALL_MO
+add address=5.206.224.0/22 comment="" disabled=no list=List_ALL_MO
+add address=5.206.229.0/24 comment="" disabled=no list=List_ALL_MO
 add address=27.109.128.0/17 comment="" disabled=no list=List_ALL_MO
 add address=43.247.24.0/22 comment="" disabled=no list=List_ALL_MO
 add address=45.64.20.0/22 comment="" disabled=no list=List_ALL_MO
@@ -34,8 +35,10 @@ add address=185.61.137.0/24 comment="" disabled=no list=List_ALL_MO
 add address=185.61.138.0/23 comment="" disabled=no list=List_ALL_MO
 add address=185.62.188.0/23 comment="" disabled=no list=List_ALL_MO
 add address=185.62.190.0/24 comment="" disabled=no list=List_ALL_MO
-add address=185.236.228.0/22 comment="" disabled=no list=List_ALL_MO
-add address=188.93.232.0/21 comment="" disabled=no list=List_ALL_MO
+add address=185.236.228.0/24 comment="" disabled=no list=List_ALL_MO
+add address=185.236.230.0/24 comment="" disabled=no list=List_ALL_MO
+add address=188.93.233.0/24 comment="" disabled=no list=List_ALL_MO
+add address=188.93.236.0/23 comment="" disabled=no list=List_ALL_MO
 add address=188.209.49.0/24 comment="" disabled=no list=List_ALL_MO
 add address=188.209.52.0/24 comment="" disabled=no list=List_ALL_MO
 add address=202.75.248.0/22 comment="" disabled=no list=List_ALL_MO
