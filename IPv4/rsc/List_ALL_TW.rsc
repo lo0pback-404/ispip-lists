@@ -422,7 +422,7 @@ add address=103.167.250.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.169.46.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.169.212.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.172.126.0/23 comment="" disabled=no list=List_ALL_TW
-add address=103.173.94.0/24 comment="" disabled=no list=List_ALL_TW
+add address=103.173.94.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.174.124.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.175.166.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.175.194.0/23 comment="" disabled=no list=List_ALL_TW
