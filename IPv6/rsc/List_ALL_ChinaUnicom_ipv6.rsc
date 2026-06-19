@@ -591,6 +591,7 @@ add address=2408:8a06::/47 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a06:100::/47 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a07::/40 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a21:4000::/35 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=2408:8a22::/35 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a23:4000::/34 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a24:4000::/34 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8a26:c000::/34 comment="" disabled=no list=List_ALL_ChinaUnicom

@@ -74,8 +74,7 @@ add address=2401:af20:1a3b::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:1a3f::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:1ad1::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:1ad2::/48 comment="" disabled=no list=List_ALL_TW
-add address=2401:af20:1ad4::/47 comment="" disabled=no list=List_ALL_TW
-add address=2401:af20:1ad7::/48 comment="" disabled=no list=List_ALL_TW
+add address=2401:af20:1ad4::/46 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:2000::/35 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:4000::/34 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20:8000::/33 comment="" disabled=no list=List_ALL_TW
