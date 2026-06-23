@@ -1753,7 +1753,7 @@ add address=223.202.0.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.202.67.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.202.131.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.202.132.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=223.202.134.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=223.202.135.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.202.211.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.202.212.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=223.203.3.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
