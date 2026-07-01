@@ -842,7 +842,6 @@ add address=139.9.224.0/20 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.9.240.0/21 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.9.248.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.159.96.0/21 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=139.159.104.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.159.108.0/23 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.159.110.0/24 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=139.159.112.0/23 comment="" disabled=no list=List_ALL_ChinaUnicom
