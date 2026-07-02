@@ -256,6 +256,7 @@ add address=2a0a:b707:aaa6::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f480::/32 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f481:2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f487::/32 comment="" disabled=no list=List_ALL_TW
+add address=2a0b:21c1:601d::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0b:21c1:602b::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0b:21c1:602c::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0b:21c1:6031::/48 comment="" disabled=no list=List_ALL_TW

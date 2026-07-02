@@ -17,8 +17,9 @@ add address=182.51.118.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=182.51.122.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=182.51.124.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=202.143.100.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
-add address=211.89.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
-add address=211.146.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.89.230.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.146.0.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
+add address=211.146.32.0/21 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=211.148.160.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=211.156.128.0/19 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=221.129.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
