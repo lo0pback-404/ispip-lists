@@ -94,7 +94,6 @@ add address=43.247.188.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.247.248.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.248.48.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.248.108.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=43.248.184.0/21 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.248.192.0/20 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.248.232.0/23 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=43.248.244.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
