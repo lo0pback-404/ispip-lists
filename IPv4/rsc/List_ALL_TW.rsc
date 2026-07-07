@@ -570,6 +570,8 @@ add address=115.165.192.0/18 comment="" disabled=no list=List_ALL_TW
 add address=116.50.32.0/20 comment="" disabled=no list=List_ALL_TW
 add address=116.59.0.0/24 comment="" disabled=no list=List_ALL_TW
 add address=116.59.2.0/24 comment="" disabled=no list=List_ALL_TW
+add address=116.59.4.0/24 comment="" disabled=no list=List_ALL_TW
+add address=116.59.6.0/24 comment="" disabled=no list=List_ALL_TW
 add address=116.59.8.0/21 comment="" disabled=no list=List_ALL_TW
 add address=116.59.16.0/20 comment="" disabled=no list=List_ALL_TW
 add address=116.59.48.0/20 comment="" disabled=no list=List_ALL_TW
