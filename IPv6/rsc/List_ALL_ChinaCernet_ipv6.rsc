@@ -7,6 +7,7 @@ add address=2001:daa:1::/48 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:daa:2::/47 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:daa:4::/47 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:daa:6::/48 comment="" disabled=no list=List_ALL_ChinaCernet
+add address=2001:daa:9::/48 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:dd9::/48 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2400:6000::/32 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2400:a980::/29 comment="" disabled=no list=List_ALL_ChinaCernet
