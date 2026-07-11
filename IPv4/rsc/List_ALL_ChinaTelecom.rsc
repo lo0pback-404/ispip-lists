@@ -518,6 +518,7 @@ add address=103.208.48.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.211.44.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.212.4.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.212.48.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=103.212.50.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.212.109.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.213.48.0/20 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.213.88.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
