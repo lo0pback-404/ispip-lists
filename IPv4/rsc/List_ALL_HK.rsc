@@ -344,6 +344,7 @@ add address=31.77.231.0/24 comment="" disabled=no list=List_ALL_HK
 add address=31.77.240.0/24 comment="" disabled=no list=List_ALL_HK
 add address=31.99.200.0/24 comment="" disabled=no list=List_ALL_HK
 add address=31.132.44.0/23 comment="" disabled=no list=List_ALL_HK
+add address=31.132.46.0/24 comment="" disabled=no list=List_ALL_HK
 add address=31.192.233.0/24 comment="" disabled=no list=List_ALL_HK
 add address=32.24.93.0/24 comment="" disabled=no list=List_ALL_HK
 add address=36.50.14.0/23 comment="" disabled=no list=List_ALL_HK
@@ -368,6 +369,7 @@ add address=38.12.254.0/24 comment="" disabled=no list=List_ALL_HK
 add address=38.18.224.0/22 comment="" disabled=no list=List_ALL_HK
 add address=38.22.124.0/22 comment="" disabled=no list=List_ALL_HK
 add address=38.38.250.0/23 comment="" disabled=no list=List_ALL_HK
+add address=38.45.108.0/23 comment="" disabled=no list=List_ALL_HK
 add address=38.45.154.0/24 comment="" disabled=no list=List_ALL_HK
 add address=38.46.158.0/23 comment="" disabled=no list=List_ALL_HK
 add address=38.47.48.0/21 comment="" disabled=no list=List_ALL_HK
@@ -3285,6 +3287,7 @@ add address=103.252.138.0/23 comment="" disabled=no list=List_ALL_HK
 add address=103.252.244.0/24 comment="" disabled=no list=List_ALL_HK
 add address=103.253.8.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.253.40.0/22 comment="" disabled=no list=List_ALL_HK
+add address=103.253.142.0/23 comment="" disabled=no list=List_ALL_HK
 add address=103.253.236.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.253.248.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.254.36.0/23 comment="" disabled=no list=List_ALL_HK
