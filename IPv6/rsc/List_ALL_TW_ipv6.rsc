@@ -2,6 +2,7 @@
 add address=2001:288::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:67c:f34::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:67c:2800::/48 comment="" disabled=no list=List_ALL_TW
+add address=2001:67c:2be8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:c08::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:c50::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:cd8::/32 comment="" disabled=no list=List_ALL_TW
