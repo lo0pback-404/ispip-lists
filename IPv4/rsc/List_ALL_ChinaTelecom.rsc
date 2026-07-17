@@ -985,6 +985,7 @@ add address=120.31.144.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.32.0.0/13 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.40.0.0/14 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.44.0.0/16 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=120.49.192.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.49.200.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.49.208.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=120.68.0.0/14 comment="" disabled=no list=List_ALL_ChinaTelecom
