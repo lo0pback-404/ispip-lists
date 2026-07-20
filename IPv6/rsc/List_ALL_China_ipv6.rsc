@@ -591,14 +591,14 @@ add address=2406:840:e304::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:e306::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:e330::/44 comment="" disabled=no list=List_ALL_China
 add address=2406:840:e600::/44 comment="" disabled=no list=List_ALL_China
-add address=2406:840:e620::/47 comment="" disabled=no list=List_ALL_China
+add address=2406:840:e621::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:e80f::/48 comment="" disabled=no list=List_ALL_China
-add address=2406:840:eb01::/48 comment="" disabled=no list=List_ALL_China
-add address=2406:840:eb02::/47 comment="" disabled=no list=List_ALL_China
+add address=2406:840:eb00::/46 comment="" disabled=no list=List_ALL_China
 add address=2406:840:eb04::/47 comment="" disabled=no list=List_ALL_China
 add address=2406:840:eb07::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:eb08::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:eb0b::/48 comment="" disabled=no list=List_ALL_China
+add address=2406:840:eb0f::/48 comment="" disabled=no list=List_ALL_China
 add address=2406:840:eb80::/42 comment="" disabled=no list=List_ALL_China
 add address=2406:840:ee40::/47 comment="" disabled=no list=List_ALL_China
 add address=2406:840:ee44::/48 comment="" disabled=no list=List_ALL_China

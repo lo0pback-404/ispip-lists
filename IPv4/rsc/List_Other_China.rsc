@@ -304,7 +304,6 @@ add address=45.248.108.0/23 comment="" disabled=no list=List_Other_China
 add address=45.248.110.0/24 comment="" disabled=no list=List_Other_China
 add address=45.249.212.0/22 comment="" disabled=no list=List_Other_China
 add address=45.250.152.0/23 comment="" disabled=no list=List_Other_China
-add address=45.250.186.0/24 comment="" disabled=no list=List_Other_China
 add address=45.251.120.0/22 comment="" disabled=no list=List_Other_China
 add address=45.252.48.0/22 comment="" disabled=no list=List_Other_China
 add address=45.253.96.0/20 comment="" disabled=no list=List_Other_China
