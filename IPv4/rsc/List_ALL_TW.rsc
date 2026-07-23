@@ -83,7 +83,6 @@ add address=45.87.55.0/24 comment="" disabled=no list=List_ALL_TW
 add address=45.123.116.0/22 comment="" disabled=no list=List_ALL_TW
 add address=45.132.219.0/24 comment="" disabled=no list=List_ALL_TW
 add address=45.135.46.0/24 comment="" disabled=no list=List_ALL_TW
-add address=45.150.54.0/23 comment="" disabled=no list=List_ALL_TW
 add address=45.200.132.0/24 comment="" disabled=no list=List_ALL_TW
 add address=45.204.133.0/24 comment="" disabled=no list=List_ALL_TW
 add address=45.221.104.0/21 comment="" disabled=no list=List_ALL_TW
