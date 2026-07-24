@@ -24,6 +24,7 @@ add address=2400:9380:9080::/47 comment="" disabled=no list=List_ALL_ChinaTeleco
 add address=2400:9380:90b1::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:9380:90b2::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:9380:90b4::/46 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=2400:9380:9109::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:9380:9121::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:9380:9220::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:9380:9250::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
