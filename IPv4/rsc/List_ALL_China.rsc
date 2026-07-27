@@ -3250,6 +3250,7 @@ add address=185.39.51.0/24 comment="" disabled=no list=List_ALL_China
 add address=185.75.173.0/24 comment="" disabled=no list=List_ALL_China
 add address=185.75.174.0/24 comment="" disabled=no list=List_ALL_China
 add address=185.116.90.0/24 comment="" disabled=no list=List_ALL_China
+add address=186.241.179.0/24 comment="" disabled=no list=List_ALL_China
 add address=186.241.181.0/24 comment="" disabled=no list=List_ALL_China
 add address=188.131.128.0/17 comment="" disabled=no list=List_ALL_China
 add address=188.220.7.0/24 comment="" disabled=no list=List_ALL_China

@@ -321,6 +321,9 @@ add address=2a13:9500:4d::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a14:67c3:9450::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:900::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:902::/48 comment="" disabled=no list=List_ALL_TW
+add address=2a14:7580:6000::/36 comment="" disabled=no list=List_ALL_TW
+add address=2a14:7580:8000::/36 comment="" disabled=no list=List_ALL_TW
+add address=2a14:7580:f300::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:800::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:e00::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:ea0::/48 comment="" disabled=no list=List_ALL_TW
