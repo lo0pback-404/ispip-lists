@@ -5,6 +5,7 @@ add address=2.18.16.0/23 comment="" disabled=no list=List_ALL_TW
 add address=2.21.16.0/22 comment="" disabled=no list=List_ALL_TW
 add address=2.58.240.0/22 comment="" disabled=no list=List_ALL_TW
 add address=5.145.180.0/23 comment="" disabled=no list=List_ALL_TW
+add address=16.217.34.0/24 comment="" disabled=no list=List_ALL_TW
 add address=23.202.124.0/22 comment="" disabled=no list=List_ALL_TW
 add address=23.212.60.0/24 comment="" disabled=no list=List_ALL_TW
 add address=27.0.152.0/22 comment="" disabled=no list=List_ALL_TW
@@ -19,6 +20,7 @@ add address=27.240.0.0/13 comment="" disabled=no list=List_ALL_TW
 add address=31.56.37.0/24 comment="" disabled=no list=List_ALL_TW
 add address=31.58.130.0/24 comment="" disabled=no list=List_ALL_TW
 add address=31.59.166.0/24 comment="" disabled=no list=List_ALL_TW
+add address=31.77.107.0/24 comment="" disabled=no list=List_ALL_TW
 add address=31.77.245.0/24 comment="" disabled=no list=List_ALL_TW
 add address=36.50.228.0/23 comment="" disabled=no list=List_ALL_TW
 add address=36.50.248.0/23 comment="" disabled=no list=List_ALL_TW
@@ -416,6 +418,7 @@ add address=103.161.79.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.161.90.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.162.84.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.164.130.0/23 comment="" disabled=no list=List_ALL_TW
+add address=103.166.81.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.167.50.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.167.250.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.169.46.0/23 comment="" disabled=no list=List_ALL_TW
@@ -820,6 +823,7 @@ add address=185.220.197.0/24 comment="" disabled=no list=List_ALL_TW
 add address=185.238.212.0/23 comment="" disabled=no list=List_ALL_TW
 add address=187.79.192.0/18 comment="" disabled=no list=List_ALL_TW
 add address=188.68.64.0/20 comment="" disabled=no list=List_ALL_TW
+add address=192.48.147.0/24 comment="" disabled=no list=List_ALL_TW
 add address=192.72.4.0/22 comment="" disabled=no list=List_ALL_TW
 add address=192.72.8.0/21 comment="" disabled=no list=List_ALL_TW
 add address=192.72.16.0/20 comment="" disabled=no list=List_ALL_TW
