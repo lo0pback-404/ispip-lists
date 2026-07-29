@@ -161,5 +161,4 @@ add address=2c0f:f7a8:815f::/48 comment="" disabled=no list=List_ALL_ChinaTeleco
 add address=2c0f:f7a8:8211::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2c0f:f7a8:9020::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2c0f:f7a8:9041::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=2c0f:f7a8:9211::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2c0f:f7a8:9220::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
