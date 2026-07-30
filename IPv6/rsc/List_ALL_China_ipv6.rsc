@@ -17,6 +17,7 @@ add address=2001:daa:9::/48 comment="" disabled=no list=List_ALL_China
 add address=2001:dc7::/32 comment="" disabled=no list=List_ALL_China
 add address=2001:dd8:1::/48 comment="" disabled=no list=List_ALL_China
 add address=2001:dd9::/48 comment="" disabled=no list=List_ALL_China
+add address=2001:df3:d0c0::/48 comment="" disabled=no list=List_ALL_China
 add address=2001:df6:40::/48 comment="" disabled=no list=List_ALL_China
 add address=2001:4510:400::/40 comment="" disabled=no list=List_ALL_China
 add address=2001:4510:1480::/41 comment="" disabled=no list=List_ALL_China
