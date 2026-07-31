@@ -542,6 +542,7 @@ add address=2408:8818::/31 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:882c::/32 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:883a::/32 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8844::/43 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=2408:8844:40::/43 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8856::/31 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8858::/30 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8862::/31 comment="" disabled=no list=List_ALL_ChinaUnicom
