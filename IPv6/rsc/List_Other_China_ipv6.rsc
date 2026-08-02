@@ -904,4 +904,8 @@ add address=2a14:7586:6110::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7586:6113::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7586:6300::/44 comment="" disabled=no list=List_Other_China
 add address=2a14:7586:6500::/48 comment="" disabled=no list=List_Other_China
+add address=2a14:7dc0:510::/47 comment="" disabled=no list=List_Other_China
+add address=2a14:7dc0:512::/48 comment="" disabled=no list=List_Other_China
+add address=2a14:7dc0:515::/48 comment="" disabled=no list=List_Other_China
+add address=2a14:7dc0:516::/47 comment="" disabled=no list=List_Other_China
 add address=2a14:ae00:50::/44 comment="" disabled=no list=List_Other_China
