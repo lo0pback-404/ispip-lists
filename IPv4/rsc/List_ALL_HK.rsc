@@ -2713,7 +2713,6 @@ add address=103.243.180.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.244.52.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.244.148.0/22 comment="" disabled=no list=List_ALL_HK
 add address=103.244.156.0/22 comment="" disabled=no list=List_ALL_HK
-add address=103.245.24.0/23 comment="" disabled=no list=List_ALL_HK
 add address=103.245.190.0/23 comment="" disabled=no list=List_ALL_HK
 add address=103.246.21.0/24 comment="" disabled=no list=List_ALL_HK
 add address=103.246.22.0/23 comment="" disabled=no list=List_ALL_HK
@@ -6636,7 +6635,6 @@ add address=213.109.168.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.139.67.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.145.71.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.145.82.0/24 comment="" disabled=no list=List_ALL_HK
-add address=213.145.87.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.157.122.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.166.93.0/24 comment="" disabled=no list=List_ALL_HK
 add address=213.176.8.0/21 comment="" disabled=no list=List_ALL_HK
