@@ -694,6 +694,7 @@ add address=150.129.72.0/22 comment="" disabled=no list=List_ALL_TW
 add address=150.129.228.0/22 comment="" disabled=no list=List_ALL_TW
 add address=150.242.100.0/23 comment="" disabled=no list=List_ALL_TW
 add address=150.242.102.0/24 comment="" disabled=no list=List_ALL_TW
+add address=151.158.6.0/24 comment="" disabled=no list=List_ALL_TW
 add address=151.158.26.0/23 comment="" disabled=no list=List_ALL_TW
 add address=151.158.88.0/23 comment="" disabled=no list=List_ALL_TW
 add address=151.158.168.0/23 comment="" disabled=no list=List_ALL_TW
