@@ -177,7 +177,6 @@ add address=2406:840:9840::/44 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:9862::/47 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:9864::/48 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:f337::/48 comment="" disabled=no list=List_ALL_TW
-add address=2406:2000:fc::/46 comment="" disabled=no list=List_ALL_TW
 add address=2406:3540::/48 comment="" disabled=no list=List_ALL_TW
 add address=2406:3a40::/32 comment="" disabled=no list=List_ALL_TW
 add address=2406:48c0:1176::/47 comment="" disabled=no list=List_ALL_TW
@@ -216,7 +215,6 @@ add address=2602:f9f6:410::/44 comment="" disabled=no list=List_ALL_TW
 add address=2602:faad:3::/48 comment="" disabled=no list=List_ALL_TW
 add address=2602:faad:8::/47 comment="" disabled=no list=List_ALL_TW
 add address=2602:faad:a1::/48 comment="" disabled=no list=List_ALL_TW
-add address=2602:faad:a2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2602:fc1d:101::/48 comment="" disabled=no list=List_ALL_TW
 add address=2602:fd55::/47 comment="" disabled=no list=List_ALL_TW
 add address=2602:fed2:731f::/48 comment="" disabled=no list=List_ALL_TW
@@ -310,9 +308,6 @@ add address=2a14:7580:6000::/36 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:8000::/36 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:f300::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:800::/40 comment="" disabled=no list=List_ALL_TW
-add address=2a14:7581:e00::/44 comment="" disabled=no list=List_ALL_TW
-add address=2a14:7581:ea0::/48 comment="" disabled=no list=List_ALL_TW
-add address=2a14:7581:eee::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:ff8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:6c00::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:6f00::/44 comment="" disabled=no list=List_ALL_TW
