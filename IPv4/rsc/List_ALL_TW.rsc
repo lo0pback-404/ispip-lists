@@ -292,7 +292,6 @@ add address=103.42.144.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.42.148.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.46.144.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.46.188.0/22 comment="" disabled=no list=List_ALL_TW
-add address=103.51.88.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.51.140.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.59.220.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.64.20.0/22 comment="" disabled=no list=List_ALL_TW

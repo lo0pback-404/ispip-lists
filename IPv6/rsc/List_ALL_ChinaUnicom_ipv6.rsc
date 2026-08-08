@@ -197,7 +197,7 @@ add address=2408:8406:a900::/41 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8406:a980::/42 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8406:b500::/41 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8406:b580::/42 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=2408:8407:500::/42 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=2408:8407:520::/43 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8409::/40 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8409:100::/41 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2408:8409:1a0::/43 comment="" disabled=no list=List_ALL_ChinaUnicom
