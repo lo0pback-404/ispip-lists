@@ -214,7 +214,6 @@ add address=101.3.14.0/23 comment="" disabled=no list=List_ALL_TW
 add address=101.3.16.0/24 comment="" disabled=no list=List_ALL_TW
 add address=101.3.32.0/19 comment="" disabled=no list=List_ALL_TW
 add address=101.3.96.0/21 comment="" disabled=no list=List_ALL_TW
-add address=101.3.104.0/24 comment="" disabled=no list=List_ALL_TW
 add address=101.3.106.0/23 comment="" disabled=no list=List_ALL_TW
 add address=101.3.108.0/22 comment="" disabled=no list=List_ALL_TW
 add address=101.3.112.0/20 comment="" disabled=no list=List_ALL_TW
