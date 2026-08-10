@@ -291,7 +291,6 @@ add address=45.65.20.0/22 comment="" disabled=no list=List_Other_China
 add address=45.82.239.0/24 comment="" disabled=no list=List_Other_China
 add address=45.86.73.0/24 comment="" disabled=no list=List_Other_China
 add address=45.89.104.0/24 comment="" disabled=no list=List_Other_China
-add address=45.95.207.0/24 comment="" disabled=no list=List_Other_China
 add address=45.113.40.0/22 comment="" disabled=no list=List_Other_China
 add address=45.115.200.0/22 comment="" disabled=no list=List_Other_China
 add address=45.116.52.0/22 comment="" disabled=no list=List_Other_China
