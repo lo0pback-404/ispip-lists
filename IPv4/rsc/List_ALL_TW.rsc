@@ -662,7 +662,7 @@ add address=141.11.183.0/24 comment="" disabled=no list=List_ALL_TW
 add address=141.11.221.0/24 comment="" disabled=no list=List_ALL_TW
 add address=144.48.34.0/23 comment="" disabled=no list=List_ALL_TW
 add address=144.79.66.0/23 comment="" disabled=no list=List_ALL_TW
-add address=144.79.237.0/24 comment="" disabled=no list=List_ALL_TW
+add address=144.79.236.0/24 comment="" disabled=no list=List_ALL_TW
 add address=149.117.216.0/24 comment="" disabled=no list=List_ALL_TW
 add address=149.127.213.0/24 comment="" disabled=no list=List_ALL_TW
 add address=150.107.56.0/22 comment="" disabled=no list=List_ALL_TW
