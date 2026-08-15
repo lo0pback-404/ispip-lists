@@ -1185,7 +1185,6 @@ add address=150.242.238.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=150.242.244.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=150.242.248.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=153.118.0.0/15 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=154.72.42.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=154.72.44.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=154.72.47.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=155.126.176.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom
