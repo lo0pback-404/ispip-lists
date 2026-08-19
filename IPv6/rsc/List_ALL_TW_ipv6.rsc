@@ -2,13 +2,11 @@
 add address=2001:288::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:67c:f34::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:67c:2800::/48 comment="" disabled=no list=List_ALL_TW
-add address=2001:67c:2be8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:c08::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:c50::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:cd8::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:d58::/32 comment="" disabled=no list=List_ALL_TW
 add address=2001:de4::/48 comment="" disabled=no list=List_ALL_TW
-add address=2001:df0:4e00::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:df1:940::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:df1:c082::/48 comment="" disabled=no list=List_ALL_TW
 add address=2001:df2:45c0::/47 comment="" disabled=no list=List_ALL_TW
@@ -38,7 +36,6 @@ add address=2400:63e0:6::/48 comment="" disabled=no list=List_ALL_TW
 add address=2400:63e0:8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2400:63e0:a::/48 comment="" disabled=no list=List_ALL_TW
 add address=2400:70e0::/32 comment="" disabled=no list=List_ALL_TW
-add address=2400:71a0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:7420::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:85a0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:aa80::/32 comment="" disabled=no list=List_ALL_TW
@@ -94,7 +91,6 @@ add address=2401:f540:1::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:2::/47 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:4::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:7::/48 comment="" disabled=no list=List_ALL_TW
-add address=2401:fae0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:ae0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:2080::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:26e0::/32 comment="" disabled=no list=List_ALL_TW
