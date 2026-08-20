@@ -279,6 +279,7 @@ add address=211.99.216.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.101.199.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.103.0.0/17 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.136.0.0/13 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=211.148.224.0/19 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.151.4.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.151.32.0/19 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=211.151.64.0/18 comment="" disabled=no list=List_ALL_ChinaMobile
