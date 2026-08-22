@@ -121,6 +121,7 @@ add address=2402:840:d000::/46 comment="" disabled=no list=List_Other_China
 add address=2402:840:e000::/46 comment="" disabled=no list=List_Other_China
 add address=2402:840:f000::/38 comment="" disabled=no list=List_Other_China
 add address=2402:1440::/32 comment="" disabled=no list=List_Other_China
+add address=2402:2e60::/39 comment="" disabled=no list=List_Other_China
 add address=2402:34e0::/32 comment="" disabled=no list=List_Other_China
 add address=2402:3f80:1400::/40 comment="" disabled=no list=List_Other_China
 add address=2402:4440:9000::/39 comment="" disabled=no list=List_Other_China
@@ -323,6 +324,7 @@ add address=2404:2280:2f6::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:2f8::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:2fb::/48 comment="" disabled=no list=List_Other_China
 add address=2404:2280:2fc::/48 comment="" disabled=no list=List_Other_China
+add address=2404:2280:307::/48 comment="" disabled=no list=List_Other_China
 add address=2404:2280:308::/46 comment="" disabled=no list=List_Other_China
 add address=2404:2280:30c::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:30e::/48 comment="" disabled=no list=List_Other_China
@@ -422,7 +424,7 @@ add address=2406:840:841::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:842::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:860::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:880::/46 comment="" disabled=no list=List_Other_China
-add address=2406:840:a10::/47 comment="" disabled=no list=List_Other_China
+add address=2406:840:a10::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:a31::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:c02::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:c60::/48 comment="" disabled=no list=List_Other_China
@@ -468,7 +470,6 @@ add address=2406:840:e302::/47 comment="" disabled=no list=List_Other_China
 add address=2406:840:e304::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:e306::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:e330::/44 comment="" disabled=no list=List_Other_China
-add address=2406:840:e57e::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:e600::/44 comment="" disabled=no list=List_Other_China
 add address=2406:840:e80f::/48 comment="" disabled=no list=List_Other_China
 add address=2406:840:eb00::/46 comment="" disabled=no list=List_Other_China
@@ -705,6 +706,7 @@ add address=2a0f:1cc5:140::/42 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:600::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:603::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:642::/48 comment="" disabled=no list=List_Other_China
+add address=2a0f:1cc5:644::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:662::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:6a0::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:f00::/46 comment="" disabled=no list=List_Other_China
@@ -730,13 +732,14 @@ add address=2a0f:1cc5:3700::/43 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4300::/40 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4508::/45 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4510::/45 comment="" disabled=no list=List_Other_China
+add address=2a0f:1cc5:451b::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:45ff::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4600::/39 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4900::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b110::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b210::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b212::/48 comment="" disabled=no list=List_Other_China
-add address=2a0f:1cc6:b240::/43 comment="" disabled=no list=List_Other_China
+add address=2a0f:1cc6:b240::/44 comment="" disabled=no list=List_Other_China
 add address=2a0f:2706::/32 comment="" disabled=no list=List_Other_China
 add address=2a0f:6280:1400::/43 comment="" disabled=no list=List_Other_China
 add address=2a0f:6280:1430::/44 comment="" disabled=no list=List_Other_China
