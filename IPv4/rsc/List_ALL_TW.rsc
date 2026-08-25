@@ -740,7 +740,6 @@ add address=157.20.199.0/24 comment="" disabled=no list=List_ALL_TW
 add address=157.66.166.0/24 comment="" disabled=no list=List_ALL_TW
 add address=157.254.212.0/24 comment="" disabled=no list=List_ALL_TW
 add address=157.254.216.0/24 comment="" disabled=no list=List_ALL_TW
-add address=157.254.230.0/24 comment="" disabled=no list=List_ALL_TW
 add address=159.117.64.0/19 comment="" disabled=no list=List_ALL_TW
 add address=160.19.54.0/24 comment="" disabled=no list=List_ALL_TW
 add address=160.19.90.0/23 comment="" disabled=no list=List_ALL_TW

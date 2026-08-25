@@ -600,8 +600,7 @@ add address=116.163.0.0/18 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.165.0.0/16 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.167.0.0/16 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.168.0.0/14 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=116.172.64.0/18 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=116.172.128.0/17 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=116.172.0.0/16 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.174.0.0/15 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.176.0.0/14 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=116.181.0.0/16 comment="" disabled=no list=List_ALL_ChinaUnicom
