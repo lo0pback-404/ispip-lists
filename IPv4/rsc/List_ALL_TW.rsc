@@ -176,7 +176,7 @@ add address=61.247.160.0/20 comment="" disabled=no list=List_ALL_TW
 add address=64.25.32.0/22 comment="" disabled=no list=List_ALL_TW
 add address=64.25.36.0/23 comment="" disabled=no list=List_ALL_TW
 add address=64.25.41.0/24 comment="" disabled=no list=List_ALL_TW
-add address=65.181.182.0/23 comment="" disabled=no list=List_ALL_TW
+add address=65.181.183.0/24 comment="" disabled=no list=List_ALL_TW
 add address=66.171.112.0/21 comment="" disabled=no list=List_ALL_TW
 add address=74.214.160.0/23 comment="" disabled=no list=List_ALL_TW
 add address=78.105.0.0/18 comment="" disabled=no list=List_ALL_TW
@@ -410,7 +410,7 @@ add address=103.161.90.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.162.84.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.164.130.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.166.81.0/24 comment="" disabled=no list=List_ALL_TW
-add address=103.167.250.0/24 comment="" disabled=no list=List_ALL_TW
+add address=103.167.250.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.169.46.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.172.126.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.173.94.0/24 comment="" disabled=no list=List_ALL_TW
@@ -768,7 +768,6 @@ add address=163.61.184.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.128.76.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.128.172.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.128.192.0/23 comment="" disabled=no list=List_ALL_TW
-add address=163.227.85.0/24 comment="" disabled=no list=List_ALL_TW
 add address=165.99.64.0/22 comment="" disabled=no list=List_ALL_TW
 add address=165.99.112.0/24 comment="" disabled=no list=List_ALL_TW
 add address=165.99.168.0/24 comment="" disabled=no list=List_ALL_TW
