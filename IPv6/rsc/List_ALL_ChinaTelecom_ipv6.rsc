@@ -128,7 +128,6 @@ add address=2605:9d80:9033::/48 comment="" disabled=no list=List_ALL_ChinaTeleco
 add address=2605:9d80:9042::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2605:9d80:9071::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2605:9d80:9092::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=2804:1e48:9001::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2804:1e48:9002::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:8010::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:8090::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
