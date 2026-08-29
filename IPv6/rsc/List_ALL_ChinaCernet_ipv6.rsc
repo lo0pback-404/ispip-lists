@@ -1,6 +1,7 @@
 /ipv6 firewall address-list
 add address=2001:250::/30 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:254::/31 comment="" disabled=no list=List_ALL_ChinaCernet
+add address=2001:7fa:5::/48 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:da8::/32 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:daa:1::/48 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=2001:daa:2::/47 comment="" disabled=no list=List_ALL_ChinaCernet
