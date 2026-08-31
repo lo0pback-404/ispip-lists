@@ -321,7 +321,7 @@ add address=223.160.160.0/19 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.160.192.0/19 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.160.224.0/21 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.160.232.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
-add address=223.160.236.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=223.160.236.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.161.194.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.161.196.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=223.161.200.0/21 comment="" disabled=no list=List_ALL_ChinaMobile
