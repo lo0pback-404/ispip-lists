@@ -1122,8 +1122,7 @@ add address=221.120.80.0/22 comment="" disabled=no list=List_ALL_TW
 add address=221.128.128.0/22 comment="" disabled=no list=List_ALL_TW
 add address=221.128.195.0/24 comment="" disabled=no list=List_ALL_TW
 add address=221.128.236.0/23 comment="" disabled=no list=List_ALL_TW
-add address=221.128.240.0/22 comment="" disabled=no list=List_ALL_TW
-add address=221.128.248.0/21 comment="" disabled=no list=List_ALL_TW
+add address=221.128.240.0/20 comment="" disabled=no list=List_ALL_TW
 add address=221.169.0.0/16 comment="" disabled=no list=List_ALL_TW
 add address=222.156.0.0/15 comment="" disabled=no list=List_ALL_TW
 add address=222.250.0.0/16 comment="" disabled=no list=List_ALL_TW
