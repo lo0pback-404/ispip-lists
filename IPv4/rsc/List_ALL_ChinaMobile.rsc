@@ -103,7 +103,7 @@ add address=103.84.170.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.85.84.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.85.172.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.85.177.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
-add address=103.85.178.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=103.85.178.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.87.180.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.95.68.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.101.180.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
