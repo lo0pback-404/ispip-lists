@@ -2,6 +2,7 @@
 add address=2401:1320::/32 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=2401:8be0::/48 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=2402:9a80::/32 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=2402:f140:ff23::/48 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=2402:f140:ff24::/48 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=2407:37c0::/32 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=2407:6c40:1210::/48 comment="" disabled=no list=List_ALL_ChinaMobile

@@ -254,8 +254,7 @@ add address=2a0c:9a40:8714::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:8720::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:9300::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:e020::/48 comment="" disabled=no list=List_ALL_TW
-add address=2a0c:b641:7b0::/47 comment="" disabled=no list=List_ALL_TW
-add address=2a0c:b641:7b2::/48 comment="" disabled=no list=List_ALL_TW
+add address=2a0c:b641:7b0::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:8f02:f00d::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:8f02:f00e::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:8f02:f010::/48 comment="" disabled=no list=List_ALL_TW
