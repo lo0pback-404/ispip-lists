@@ -737,7 +737,7 @@ add address=156.242.9.0/24 comment="" disabled=no list=List_ALL_TW
 add address=156.250.1.0/24 comment="" disabled=no list=List_ALL_TW
 add address=157.15.32.0/23 comment="" disabled=no list=List_ALL_TW
 add address=157.15.70.0/23 comment="" disabled=no list=List_ALL_TW
-add address=157.20.68.0/23 comment="" disabled=no list=List_ALL_TW
+add address=157.20.68.0/24 comment="" disabled=no list=List_ALL_TW
 add address=157.20.106.0/23 comment="" disabled=no list=List_ALL_TW
 add address=157.20.108.0/23 comment="" disabled=no list=List_ALL_TW
 add address=157.20.199.0/24 comment="" disabled=no list=List_ALL_TW
