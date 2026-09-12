@@ -4,7 +4,7 @@ add address=1.160.0.0/12 comment="" disabled=no list=List_ALL_TW
 add address=2.18.16.0/23 comment="" disabled=no list=List_ALL_TW
 add address=2.21.16.0/22 comment="" disabled=no list=List_ALL_TW
 add address=2.58.240.0/22 comment="" disabled=no list=List_ALL_TW
-add address=5.145.180.0/22 comment="" disabled=no list=List_ALL_TW
+add address=5.145.180.0/23 comment="" disabled=no list=List_ALL_TW
 add address=16.5.15.0/24 comment="" disabled=no list=List_ALL_TW
 add address=16.5.31.0/24 comment="" disabled=no list=List_ALL_TW
 add address=16.5.62.0/24 comment="" disabled=no list=List_ALL_TW
