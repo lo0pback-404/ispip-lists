@@ -7,7 +7,6 @@ add address=2.58.240.0/22 comment="" disabled=no list=List_ALL_TW
 add address=5.145.180.0/23 comment="" disabled=no list=List_ALL_TW
 add address=16.5.15.0/24 comment="" disabled=no list=List_ALL_TW
 add address=16.5.31.0/24 comment="" disabled=no list=List_ALL_TW
-add address=16.5.62.0/24 comment="" disabled=no list=List_ALL_TW
 add address=23.202.124.0/22 comment="" disabled=no list=List_ALL_TW
 add address=23.212.60.0/24 comment="" disabled=no list=List_ALL_TW
 add address=27.0.152.0/22 comment="" disabled=no list=List_ALL_TW
