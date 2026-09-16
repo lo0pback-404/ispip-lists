@@ -62,6 +62,7 @@ add address=2401:85c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:95c0::/36 comment="" disabled=no list=List_ALL_TW
 add address=2401:95c0:ff00::/47 comment="" disabled=no list=List_ALL_TW
 add address=2401:97e0::/48 comment="" disabled=no list=List_ALL_TW
+add address=2401:9e60::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:a040::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:ab00::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:af20::/36 comment="" disabled=no list=List_ALL_TW
@@ -121,7 +122,7 @@ add address=2403:9f00::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:a2c0:128::/47 comment="" disabled=no list=List_ALL_TW
 add address=2403:a3c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:b7c0::/32 comment="" disabled=no list=List_ALL_TW
-add address=2403:b9c0::/48 comment="" disabled=no list=List_ALL_TW
+add address=2403:b9c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:c240::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:cfc0:1004::/48 comment="" disabled=no list=List_ALL_TW
 add address=2403:d340::/32 comment="" disabled=no list=List_ALL_TW
