@@ -90,10 +90,7 @@ add address=49.128.64.0/22 comment="" disabled=no list=List_ALL_TW
 add address=49.128.69.0/24 comment="" disabled=no list=List_ALL_TW
 add address=49.128.70.0/23 comment="" disabled=no list=List_ALL_TW
 add address=49.128.72.0/21 comment="" disabled=no list=List_ALL_TW
-add address=49.128.80.0/23 comment="" disabled=no list=List_ALL_TW
-add address=49.128.82.0/24 comment="" disabled=no list=List_ALL_TW
-add address=49.128.84.0/22 comment="" disabled=no list=List_ALL_TW
-add address=49.128.88.0/21 comment="" disabled=no list=List_ALL_TW
+add address=49.128.80.0/20 comment="" disabled=no list=List_ALL_TW
 add address=49.128.112.0/20 comment="" disabled=no list=List_ALL_TW
 add address=49.128.203.0/24 comment="" disabled=no list=List_ALL_TW
 add address=49.158.0.0/15 comment="" disabled=no list=List_ALL_TW
