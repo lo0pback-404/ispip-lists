@@ -744,7 +744,7 @@ add address=2a0f:1cc5:45ff::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:4600::/39 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:49f0::/48 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc5:57fd::/48 comment="" disabled=no list=List_Other_China
-add address=2a0f:1cc5:57fe::/48 comment="" disabled=no list=List_Other_China
+add address=2a0f:1cc5:57fe::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b110::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b210::/47 comment="" disabled=no list=List_Other_China
 add address=2a0f:1cc6:b212::/48 comment="" disabled=no list=List_Other_China
@@ -783,6 +783,7 @@ add address=2a12:cb41:600::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb41:1200::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb41:1300::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb41:13f0::/44 comment="" disabled=no list=List_Other_China
+add address=2a12:cb46::/36 comment="" disabled=no list=List_Other_China
 add address=2a12:cb46:6000::/38 comment="" disabled=no list=List_Other_China
 add address=2a12:cb47:ffff::/48 comment="" disabled=no list=List_Other_China
 add address=2a13:1801:180::/43 comment="" disabled=no list=List_Other_China
@@ -827,7 +828,7 @@ add address=2a14:7583:f701::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f703::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f704::/47 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f707::/48 comment="" disabled=no list=List_Other_China
-add address=2a14:7583:f708::/48 comment="" disabled=no list=List_Other_China
+add address=2a14:7583:f708::/47 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f743::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f744::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f764::/48 comment="" disabled=no list=List_Other_China
