@@ -54,6 +54,7 @@ add address=2401:55e0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:5da0:1::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:5da0:2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:5da0:53::/48 comment="" disabled=no list=List_ALL_TW
+add address=2401:5da0:666::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:5f20::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:7a60::/32 comment="" disabled=no list=List_ALL_TW
 add address=2401:8000::/26 comment="" disabled=no list=List_ALL_TW
@@ -109,7 +110,7 @@ add address=2402:4de0:2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2402:4f20::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:6420::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:71e0::/40 comment="" disabled=no list=List_ALL_TW
-add address=2402:71e0:100::/48 comment="" disabled=no list=List_ALL_TW
+add address=2402:71e0:100::/47 comment="" disabled=no list=List_ALL_TW
 add address=2402:7500::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:9c00::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:b600::/32 comment="" disabled=no list=List_ALL_TW
@@ -173,7 +174,6 @@ add address=2405:b8c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2405:cdc0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2405:e4c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2406:300::/32 comment="" disabled=no list=List_ALL_TW
-add address=2406:840:9840::/44 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:9862::/47 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:9864::/48 comment="" disabled=no list=List_ALL_TW
 add address=2406:840:f337::/48 comment="" disabled=no list=List_ALL_TW
@@ -232,7 +232,7 @@ add address=2a06:a001:a104::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:190::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:1a0::/43 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:1c0::/43 comment="" disabled=no list=List_ALL_TW
-add address=2a06:a005:200::/43 comment="" disabled=no list=List_ALL_TW
+add address=2a06:a005:210::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:500::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:570::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a06:a005:f60::/44 comment="" disabled=no list=List_ALL_TW
@@ -245,10 +245,9 @@ add address=2a0a:b707:aaa6::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f480::/32 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f481:2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0a:f487::/32 comment="" disabled=no list=List_ALL_TW
-add address=2a0b:4340:580::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0b:4340:5a0::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0b:4e07:c4::/46 comment="" disabled=no list=List_ALL_TW
-add address=2a0b:4e07:f0::/46 comment="" disabled=no list=List_ALL_TW
+add address=2a0b:4e07:f3::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:8440::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:8711::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0c:9a40:8712::/47 comment="" disabled=no list=List_ALL_TW
@@ -264,17 +263,16 @@ add address=2a0e:8f02:f013::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:8f02:f03d::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:8f02:f046::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:aa07:e02b::/48 comment="" disabled=no list=List_ALL_TW
-add address=2a0e:b107:1070::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1310::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1350::/44 comment="" disabled=no list=List_ALL_TW
-add address=2a0e:b107:1480::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1950::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1a30::/45 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1a3b::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1a3e::/47 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:1c0f::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0e:b107:2710::/44 comment="" disabled=no list=List_ALL_TW
-add address=2a0e:b107:28b8::/45 comment="" disabled=no list=List_ALL_TW
+add address=2a0e:b107:28bb::/48 comment="" disabled=no list=List_ALL_TW
+add address=2a0e:b107:28bf::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:607:1024::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:607:1051::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:607:1052::/48 comment="" disabled=no list=List_ALL_TW
@@ -293,7 +291,6 @@ add address=2a0f:85c1:ba4::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:85c1:ba8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:b241:141::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a10:2f00:157::/48 comment="" disabled=no list=List_ALL_TW
-add address=2a12:3fc2:ddff::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a12:3fc2:df00::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a12:3fc5::/32 comment="" disabled=no list=List_ALL_TW
 add address=2a13:2200::/47 comment="" disabled=no list=List_ALL_TW
@@ -307,7 +304,6 @@ add address=2a14:7580:902::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:6000::/36 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:8000::/36 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7580:f300::/40 comment="" disabled=no list=List_ALL_TW
-add address=2a14:7581:800::/40 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:e00::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:ea0::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a14:7581:eee::/48 comment="" disabled=no list=List_ALL_TW
