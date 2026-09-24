@@ -716,7 +716,6 @@ add address=152.104.96.0/19 comment="" disabled=no list=List_ALL_TW
 add address=154.18.168.0/24 comment="" disabled=no list=List_ALL_TW
 add address=154.19.156.0/24 comment="" disabled=no list=List_ALL_TW
 add address=154.19.159.0/24 comment="" disabled=no list=List_ALL_TW
-add address=154.81.6.0/23 comment="" disabled=no list=List_ALL_TW
 add address=154.194.28.0/22 comment="" disabled=no list=List_ALL_TW
 add address=154.222.0.0/24 comment="" disabled=no list=List_ALL_TW
 add address=155.117.15.0/24 comment="" disabled=no list=List_ALL_TW
