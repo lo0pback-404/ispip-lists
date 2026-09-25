@@ -92,7 +92,6 @@ add address=103.37.47.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.37.72.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.40.12.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.40.192.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
-add address=103.45.160.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.45.162.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.46.170.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.52.176.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
@@ -132,7 +131,8 @@ add address=103.233.52.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.238.132.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.239.152.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.239.204.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
-add address=103.239.244.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=103.239.244.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
+add address=103.239.247.0/24 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.247.168.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.252.36.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=103.253.232.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
