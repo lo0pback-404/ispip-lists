@@ -285,10 +285,7 @@ add address=2404:2280:25c::/48 comment="" disabled=no list=List_Other_China
 add address=2404:2280:265::/48 comment="" disabled=no list=List_Other_China
 add address=2404:2280:266::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:268::/45 comment="" disabled=no list=List_Other_China
-add address=2404:2280:270::/45 comment="" disabled=no list=List_Other_China
-add address=2404:2280:278::/47 comment="" disabled=no list=List_Other_China
-add address=2404:2280:27b::/48 comment="" disabled=no list=List_Other_China
-add address=2404:2280:27c::/46 comment="" disabled=no list=List_Other_China
+add address=2404:2280:270::/44 comment="" disabled=no list=List_Other_China
 add address=2404:2280:282::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:284::/47 comment="" disabled=no list=List_Other_China
 add address=2404:2280:288::/46 comment="" disabled=no list=List_Other_China
