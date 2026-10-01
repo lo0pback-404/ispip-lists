@@ -764,7 +764,7 @@ add address=163.128.76.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.128.172.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.128.192.0/23 comment="" disabled=no list=List_ALL_TW
 add address=165.99.64.0/22 comment="" disabled=no list=List_ALL_TW
-add address=165.99.112.0/24 comment="" disabled=no list=List_ALL_TW
+add address=165.99.112.0/23 comment="" disabled=no list=List_ALL_TW
 add address=165.99.168.0/24 comment="" disabled=no list=List_ALL_TW
 add address=165.101.28.0/23 comment="" disabled=no list=List_ALL_TW
 add address=168.95.0.0/16 comment="" disabled=no list=List_ALL_TW
