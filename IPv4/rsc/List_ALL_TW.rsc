@@ -758,6 +758,7 @@ add address=163.13.0.0/16 comment="" disabled=no list=List_ALL_TW
 add address=163.14.0.0/15 comment="" disabled=no list=List_ALL_TW
 add address=163.16.0.0/12 comment="" disabled=no list=List_ALL_TW
 add address=163.32.0.0/16 comment="" disabled=no list=List_ALL_TW
+add address=163.52.140.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.61.60.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.61.124.0/23 comment="" disabled=no list=List_ALL_TW
 add address=163.61.184.0/23 comment="" disabled=no list=List_ALL_TW
