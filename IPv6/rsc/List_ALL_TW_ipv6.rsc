@@ -111,6 +111,7 @@ add address=2402:4de0::/47 comment="" disabled=no list=List_ALL_TW
 add address=2402:4de0:2::/48 comment="" disabled=no list=List_ALL_TW
 add address=2402:4f20::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:6420::/32 comment="" disabled=no list=List_ALL_TW
+add address=2402:6d20::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:71e0::/40 comment="" disabled=no list=List_ALL_TW
 add address=2402:71e0:100::/47 comment="" disabled=no list=List_ALL_TW
 add address=2402:7500::/32 comment="" disabled=no list=List_ALL_TW

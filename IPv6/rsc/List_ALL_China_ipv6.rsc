@@ -1565,7 +1565,7 @@ add address=2a0f:4680::/29 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6280:1400::/43 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6280:1430::/44 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6280:1440::/42 comment="" disabled=no list=List_ALL_China
-add address=2a0f:6280:1480::/44 comment="" disabled=no list=List_ALL_China
+add address=2a0f:6280:1480::/43 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6281::/32 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6284:4c00::/44 comment="" disabled=no list=List_ALL_China
 add address=2a0f:6284:4c20::/44 comment="" disabled=no list=List_ALL_China
