@@ -16,7 +16,6 @@ add address=2401:1d40:3000::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2401:71c0::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2401:a140:1::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2401:be00::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=2402:18a0::/32 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2402:5ec0:1000::/39 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2402:92c0::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2402:db40:5100::/48 comment="" disabled=no list=List_ALL_ChinaUnicom

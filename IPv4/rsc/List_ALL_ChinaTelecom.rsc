@@ -1722,7 +1722,7 @@ add address=219.238.232.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=219.239.88.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=220.113.96.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=220.154.0.0/20 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=220.154.16.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=220.154.16.0/21 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=220.154.64.0/20 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=220.154.80.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=220.154.116.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom

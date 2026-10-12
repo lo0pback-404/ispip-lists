@@ -791,7 +791,7 @@ add address=185.190.18.0/24 comment="" disabled=no list=List_ALL_TW
 add address=185.213.248.0/24 comment="" disabled=no list=List_ALL_TW
 add address=185.220.197.0/24 comment="" disabled=no list=List_ALL_TW
 add address=185.238.212.0/23 comment="" disabled=no list=List_ALL_TW
-add address=187.79.192.0/22 comment="" disabled=no list=List_ALL_TW
+add address=187.79.192.0/23 comment="" disabled=no list=List_ALL_TW
 add address=187.79.224.0/19 comment="" disabled=no list=List_ALL_TW
 add address=188.68.64.0/20 comment="" disabled=no list=List_ALL_TW
 add address=192.72.4.0/22 comment="" disabled=no list=List_ALL_TW
