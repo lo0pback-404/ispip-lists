@@ -18,6 +18,7 @@ add address=103.81.200.0/22 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=103.115.120.0/22 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=103.137.60.0/24 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=103.165.110.0/23 comment="" disabled=no list=List_ALL_ChinaCernet
+add address=103.189.197.0/24 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=103.252.172.0/22 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=110.64.0.0/15 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=111.114.0.0/15 comment="" disabled=no list=List_ALL_ChinaCernet

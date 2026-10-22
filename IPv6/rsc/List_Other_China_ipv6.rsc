@@ -826,6 +826,7 @@ add address=2a14:7580:fff3::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7581:fe1::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7581:3810::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:e900::/48 comment="" disabled=no list=List_Other_China
+add address=2a14:7583:e999::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:efe7::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f411::/48 comment="" disabled=no list=List_Other_China
 add address=2a14:7583:f4f0::/48 comment="" disabled=no list=List_Other_China
