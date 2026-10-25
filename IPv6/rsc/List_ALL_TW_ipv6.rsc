@@ -289,6 +289,7 @@ add address=2a0f:607:1500::/44 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:5707:ffa0::/45 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:5707:ffe0::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:5707:fff2::/48 comment="" disabled=no list=List_ALL_TW
+add address=2a0f:6280:1088::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:85c1:298::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:85c1:390::/48 comment="" disabled=no list=List_ALL_TW
 add address=2a0f:85c1:8b7::/48 comment="" disabled=no list=List_ALL_TW
