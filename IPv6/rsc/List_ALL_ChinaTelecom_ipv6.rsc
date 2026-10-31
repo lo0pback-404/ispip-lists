@@ -60,7 +60,6 @@ add address=2401:be00::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2401:d0e0:3::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:c60::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:36e0::/44 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=2402:4e00::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:5ec0::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:92c0::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:db40:5100::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
@@ -135,10 +134,12 @@ add address=2a04:f580:8290::/48 comment="" disabled=no list=List_ALL_ChinaTeleco
 add address=2a04:f580:9010::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9012::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9020::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=2a04:f580:9030::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9040::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9050::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9060::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9070::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=2a04:f580:9080::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9210::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9212::/47 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2a04:f580:9220::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
