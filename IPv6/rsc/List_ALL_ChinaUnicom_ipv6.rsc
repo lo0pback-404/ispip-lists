@@ -2,6 +2,7 @@
 add address=2001:4510:1480::/41 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2001:4511:1480::/41 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2400:5280:f803::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=2400:79c0:1604::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2400:89c0:1010::/44 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2400:a860:2::/48 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=2400:b700::/48 comment="" disabled=no list=List_ALL_ChinaUnicom

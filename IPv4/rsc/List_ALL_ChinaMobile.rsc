@@ -239,7 +239,6 @@ add address=157.20.246.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=157.66.164.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=160.19.76.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=160.202.212.0/22 comment="" disabled=no list=List_ALL_ChinaMobile
-add address=161.207.18.0/23 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=167.189.0.0/16 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=180.188.16.0/21 comment="" disabled=no list=List_ALL_ChinaMobile
 add address=182.50.112.0/20 comment="" disabled=no list=List_ALL_ChinaMobile

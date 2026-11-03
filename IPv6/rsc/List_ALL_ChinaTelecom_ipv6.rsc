@@ -60,7 +60,6 @@ add address=2401:be00::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2401:d0e0:3::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:c60::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:36e0::/44 comment="" disabled=no list=List_ALL_ChinaTelecom
-add address=2402:4e00::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:5ec0::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:92c0::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:db40:5100::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
