@@ -22,7 +22,6 @@ add address=125.31.0.0/18 comment="" disabled=no list=List_ALL_MO
 add address=149.102.96.0/20 comment="" disabled=no list=List_ALL_MO
 add address=154.18.148.0/22 comment="" disabled=no list=List_ALL_MO
 add address=161.64.0.0/16 comment="" disabled=no list=List_ALL_MO
-add address=165.49.231.0/24 comment="" disabled=no list=List_ALL_MO
 add address=171.22.255.0/24 comment="" disabled=no list=List_ALL_MO
 add address=180.94.128.0/18 comment="" disabled=no list=List_ALL_MO
 add address=182.93.0.0/18 comment="" disabled=no list=List_ALL_MO
