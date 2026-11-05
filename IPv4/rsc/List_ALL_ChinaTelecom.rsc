@@ -393,6 +393,7 @@ add address=103.45.168.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.45.170.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.45.172.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.45.176.0/20 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=103.45.226.0/23 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.45.248.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.46.168.0/24 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=103.47.80.0/22 comment="" disabled=no list=List_ALL_ChinaTelecom

@@ -4,6 +4,7 @@ add address=2001:dd8:1::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:5280:f803::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:6e60:1301::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:75aa::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=2400:79c0:1600::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:89c0:1050::/46 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:89c0:1150::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2400:89c0:6000::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
@@ -60,6 +61,7 @@ add address=2401:be00::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2401:d0e0:3::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:c60::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:36e0::/44 comment="" disabled=no list=List_ALL_ChinaTelecom
+add address=2402:3ba0::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:5ec0::/32 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:92c0::/48 comment="" disabled=no list=List_ALL_ChinaTelecom
 add address=2402:db40:5100::/48 comment="" disabled=no list=List_ALL_ChinaTelecom

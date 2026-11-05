@@ -121,6 +121,9 @@ add address=2403:7f40:e000::/36 comment="" disabled=no list=List_ALL_TW
 add address=2403:82c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:9f00::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:a2c0::/36 comment="" disabled=no list=List_ALL_TW
+add address=2403:a2c0:f000::/48 comment="" disabled=no list=List_ALL_TW
+add address=2403:a2c0:f190::/48 comment="" disabled=no list=List_ALL_TW
+add address=2403:a2c0:f192::/48 comment="" disabled=no list=List_ALL_TW
 add address=2403:a3c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:b7c0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2403:b9c0::/32 comment="" disabled=no list=List_ALL_TW
