@@ -1340,6 +1340,7 @@ add address=122.200.120.0/22 comment="" disabled=no list=List_Other_China
 add address=122.248.48.0/21 comment="" disabled=no list=List_Other_China
 add address=122.248.56.0/22 comment="" disabled=no list=List_Other_China
 add address=123.49.194.0/24 comment="" disabled=no list=List_Other_China
+add address=123.49.196.0/24 comment="" disabled=no list=List_Other_China
 add address=123.49.231.0/24 comment="" disabled=no list=List_Other_China
 add address=123.49.232.0/24 comment="" disabled=no list=List_Other_China
 add address=123.49.237.0/24 comment="" disabled=no list=List_Other_China
