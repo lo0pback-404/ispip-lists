@@ -197,8 +197,7 @@ add address=43.109.214.0/23 comment="" disabled=no list=List_Other_China
 add address=43.109.216.0/21 comment="" disabled=no list=List_Other_China
 add address=43.109.224.0/23 comment="" disabled=no list=List_Other_China
 add address=43.109.226.0/24 comment="" disabled=no list=List_Other_China
-add address=43.109.235.0/24 comment="" disabled=no list=List_Other_China
-add address=43.109.236.0/22 comment="" disabled=no list=List_Other_China
+add address=43.109.232.0/21 comment="" disabled=no list=List_Other_China
 add address=43.116.128.0/20 comment="" disabled=no list=List_Other_China
 add address=43.136.0.0/13 comment="" disabled=no list=List_Other_China
 add address=43.144.0.0/15 comment="" disabled=no list=List_Other_China

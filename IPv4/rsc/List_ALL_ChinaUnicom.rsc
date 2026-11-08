@@ -526,7 +526,6 @@ add address=111.85.0.0/16 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=111.160.0.0/13 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=111.192.0.0/12 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=111.208.121.0/24 comment="" disabled=no list=List_ALL_ChinaUnicom
-add address=111.223.12.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=112.64.0.0/15 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=112.73.96.0/19 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=112.80.0.0/12 comment="" disabled=no list=List_ALL_ChinaUnicom
