@@ -333,7 +333,7 @@ add address=103.122.118.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.122.188.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.122.216.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.122.224.0/22 comment="" disabled=no list=List_ALL_TW
-add address=103.123.128.0/23 comment="" disabled=no list=List_ALL_TW
+add address=103.123.128.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.123.132.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.123.140.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.123.188.0/22 comment="" disabled=no list=List_ALL_TW
