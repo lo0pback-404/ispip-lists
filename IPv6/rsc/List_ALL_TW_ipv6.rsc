@@ -113,6 +113,7 @@ add address=2402:6d20::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:7160::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:71e0::/40 comment="" disabled=no list=List_ALL_TW
 add address=2402:71e0:100::/47 comment="" disabled=no list=List_ALL_TW
+add address=2402:74e0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:7500::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:9c00::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:b600::/32 comment="" disabled=no list=List_ALL_TW

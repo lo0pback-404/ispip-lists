@@ -8,7 +8,6 @@ add address=103.89.224.0/21 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=103.222.184.0/22 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=111.31.196.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=111.31.239.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
-add address=117.124.237.0/24 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=117.126.0.0/16 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=163.61.202.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
 add address=182.51.114.0/23 comment="" disabled=no list=List_ALL_ChinaBtn
