@@ -983,6 +983,7 @@ add address=182.88.0.0/14 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=182.112.0.0/12 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=182.175.224.0/24 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=182.175.240.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
+add address=182.255.60.0/22 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=183.92.0.0/14 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=183.184.0.0/13 comment="" disabled=no list=List_ALL_ChinaUnicom
 add address=192.163.11.0/24 comment="" disabled=no list=List_ALL_ChinaUnicom
