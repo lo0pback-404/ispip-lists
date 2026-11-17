@@ -988,7 +988,6 @@ add address=210.63.253.0/24 comment="" disabled=no list=List_ALL_TW
 add address=210.64.0.0/15 comment="" disabled=no list=List_ALL_TW
 add address=210.66.0.0/16 comment="" disabled=no list=List_ALL_TW
 add address=210.67.0.0/17 comment="" disabled=no list=List_ALL_TW
-add address=210.67.140.0/23 comment="" disabled=no list=List_ALL_TW
 add address=210.67.144.0/20 comment="" disabled=no list=List_ALL_TW
 add address=210.67.160.0/19 comment="" disabled=no list=List_ALL_TW
 add address=210.67.192.0/19 comment="" disabled=no list=List_ALL_TW

@@ -843,7 +843,6 @@ add address=2a12:3fc6::/46 comment="" disabled=no list=List_Other_China
 add address=2a12:3fc6:4::/48 comment="" disabled=no list=List_Other_China
 add address=2a12:cb41:600::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb41:1300::/44 comment="" disabled=no list=List_Other_China
-add address=2a12:cb41:13f0::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb46:6000::/38 comment="" disabled=no list=List_Other_China
 add address=2a12:cb46:6400::/44 comment="" disabled=no list=List_Other_China
 add address=2a12:cb47:ffff::/48 comment="" disabled=no list=List_Other_China
