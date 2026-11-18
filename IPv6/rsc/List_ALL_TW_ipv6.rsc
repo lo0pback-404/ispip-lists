@@ -37,6 +37,7 @@ add address=2400:63e0:8::/48 comment="" disabled=no list=List_ALL_TW
 add address=2400:63e0:a::/48 comment="" disabled=no list=List_ALL_TW
 add address=2400:70e0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:7420::/32 comment="" disabled=no list=List_ALL_TW
+add address=2400:85a0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:aa80::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:b380::/32 comment="" disabled=no list=List_ALL_TW
 add address=2400:b480::/32 comment="" disabled=no list=List_ALL_TW
