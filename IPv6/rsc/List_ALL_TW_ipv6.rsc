@@ -88,7 +88,6 @@ add address=2401:e3e0:900::/44 comment="" disabled=no list=List_ALL_TW
 add address=2401:e760::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:1::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:3::/48 comment="" disabled=no list=List_ALL_TW
-add address=2401:f540:4::/48 comment="" disabled=no list=List_ALL_TW
 add address=2401:f540:7::/48 comment="" disabled=no list=List_ALL_TW
 add address=2402:ae0::/32 comment="" disabled=no list=List_ALL_TW
 add address=2402:ca0::/33 comment="" disabled=no list=List_ALL_TW
