@@ -316,7 +316,7 @@ add address=103.99.142.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.103.81.0/24 comment="" disabled=no list=List_ALL_TW
 add address=103.103.82.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.103.129.0/24 comment="" disabled=no list=List_ALL_TW
-add address=103.103.131.0/24 comment="" disabled=no list=List_ALL_TW
+add address=103.103.130.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.103.168.0/22 comment="" disabled=no list=List_ALL_TW
 add address=103.104.148.0/23 comment="" disabled=no list=List_ALL_TW
 add address=103.116.14.0/23 comment="" disabled=no list=List_ALL_TW
