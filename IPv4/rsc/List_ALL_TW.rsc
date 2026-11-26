@@ -523,8 +523,7 @@ add address=111.71.208.0/23 comment="" disabled=no list=List_ALL_TW
 add address=111.71.212.0/22 comment="" disabled=no list=List_ALL_TW
 add address=111.71.216.0/23 comment="" disabled=no list=List_ALL_TW
 add address=111.71.218.0/24 comment="" disabled=no list=List_ALL_TW
-add address=111.71.220.0/23 comment="" disabled=no list=List_ALL_TW
-add address=111.71.222.0/24 comment="" disabled=no list=List_ALL_TW
+add address=111.71.220.0/22 comment="" disabled=no list=List_ALL_TW
 add address=111.71.225.0/24 comment="" disabled=no list=List_ALL_TW
 add address=111.71.226.0/23 comment="" disabled=no list=List_ALL_TW
 add address=111.71.228.0/23 comment="" disabled=no list=List_ALL_TW
