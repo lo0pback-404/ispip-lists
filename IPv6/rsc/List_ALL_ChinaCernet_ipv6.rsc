@@ -36,13 +36,7 @@ add address=240a:a00f::/32 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a010::/28 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a020::/27 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a040::/26 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a080::/27 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0a0::/28 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0b0::/30 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0b4::/31 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0b7::/32 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0b8::/29 comment="" disabled=no list=List_ALL_ChinaCernet
-add address=240a:a0c0::/26 comment="" disabled=no list=List_ALL_ChinaCernet
+add address=240a:a080::/25 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a100::/24 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a200::/23 comment="" disabled=no list=List_ALL_ChinaCernet
 add address=240a:a400::/22 comment="" disabled=no list=List_ALL_ChinaCernet
